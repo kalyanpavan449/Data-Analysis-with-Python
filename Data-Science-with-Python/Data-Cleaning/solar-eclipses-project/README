@@ -45,9 +45,7 @@ Ideal for beginners learning **data cleaning**, **aggregation**, and **visualiza
 
 1. Open the project in **Visual Studio Code**.  
 2. Launch the Jupyter Notebook:
-   
-   jupyter notebook solar-eclipses.ipynb
-   
+   - jupyter notebook solar-eclipses.ipynb  
 3. Run all cells to:
    - Load and clean the dataset  
    - Convert durations  
@@ -70,11 +68,9 @@ Ideal for beginners learning **data cleaning**, **aggregation**, and **visualiza
 📦 Requirements
 
 Create a `requirements.txt` file with:
-
-pandas
-matplotlib
-jupyter
-
+- pandas
+- matplotlib
+- jupyter
 
 
 
@@ -90,6 +86,11 @@ To contribute:
 
 Please follow **PEP 8** style guidelines and include clear comments.
 
+
+🧾 Author
+
+Pavan Kalyan — Data Analyst transitioning from accounting to data science.  
+Focused on clean documentation, reproducible analysis, and recruiter‑ready project presentation.
 
 
 📜 License
